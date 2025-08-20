@@ -22,17 +22,19 @@
     "url": "https://spot-profile.xavierkhew.com/",
     "icon": "https://icons.duckduckgo.com/ip3/spot-profile.xavierkhew.com.ico",
     "slug": "spotify-profiler",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 803,
-    "timeDay": 639,
-    "timeWeek": 743,
-    "timeMonth": 781,
+    "timeDay": 759,
+    "timeWeek": 760,
+    "timeMonth": 784,
     "timeYear": 803,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 13
+    }
   }
 ]
