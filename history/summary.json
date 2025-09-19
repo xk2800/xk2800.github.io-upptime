@@ -22,7 +22,7 @@
     "url": "https://spot-profile.xavierkhew.com/",
     "icon": "https://icons.duckduckgo.com/ip3/spot-profile.xavierkhew.com.ico",
     "slug": "spotify-profiler",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 848,
     "timeYear": 816,
     "dailyMinutesDown": {
+      "2025-09-19": 0,
       "2025-09-05": 26,
       "2025-09-04": 24,
       "2025-09-03": 45,
