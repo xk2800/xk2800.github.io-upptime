@@ -4,19 +4,19 @@
     "url": "https://xavierkhew.com/",
     "icon": "https://icons.duckduckgo.com/ip3/xavierkhew.com.ico",
     "slug": "xavierkhew-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 139,
-    "timeWeek": 189,
-    "timeMonth": 193,
+    "timeDay": 151,
+    "timeWeek": 188,
+    "timeMonth": 192,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 12
     }
   },
   {
